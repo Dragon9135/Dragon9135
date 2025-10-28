@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dragon 👋
 
-<!--
-**Dragon9135/Dragon9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bit new to programming.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Focusing On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building some desktop apps.
+* Exploring new technologies related to performance optimization.
+* Learning and improving my skills in Python and JavaScript.
+
+### 📫 How to Reach Me
+
+You can find me on Discord for collaborations or a quick chat.
+
+* **Discord:** `t994`
